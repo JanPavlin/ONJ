@@ -1,0 +1,2 @@
+# ONJ
+Obdelava naravnega jezika
